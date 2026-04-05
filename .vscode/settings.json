@@ -1,0 +1,14 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "Assignment number system.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "assignment 1.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ]
+}
