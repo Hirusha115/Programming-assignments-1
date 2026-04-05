@@ -35,7 +35,7 @@ def ask_question(question_text, answer):
 
 def main():
     # DISPLAY Welcome Message
-    print("Welcome to YOUR NAME'S (STUDENT NUMBER) Number List Test!")
+    print("Welcome to Hirusha Divisekara'S (10741877) Number List Test!")
     print("-" * 50)
 
     # REPEAT Difficulty Selection until a valid option is chosen
